@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-	<img src=https://cn.bing.com/images/search?view=detailV2&ccid=LEH5tUEQ&id=9A56EBEDA2ED706CA061C9CCA9A1E67B7B85CF76&thid=OIP.LEH5tUEQReWe8Iu-UEV3PgHaFj&mediaurl=https%3a%2f%2fwww.sarvika.com%2fwp-content%2fuploads%2f2021%2f03%2fBackend-Developer-Python-GIF-Dribble.gif&exph=600&expw=800&q=people+coding+computer+GIF&simid=607996129248177851&FORM=IRPRST&ck=2A94389394914F3F294007A7885AE40B&selectedIndex=28&ajaxhist=0&ajaxserp=0"/>
+	<img src="images/Backend-Developer-Python-GIF-Dribble.gif" width="60" />
 </p>
 
 <div align="center">

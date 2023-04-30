@@ -24,3 +24,5 @@ Here are some ideas to get you started:
 <div align="center">
     <img src="https://activity-graph.herokuapp.com/graph?username=chenqiang19&theme=minimal" />
 </div>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=chenqiang19&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)

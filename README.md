@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![image](https://github.com/ZhengYaWei1992/ZWProgressView/blob/master/Untitled3.gif)
+![image](https://github.com/chenqiang19/chenqiang19/blob/main/images/Backend-Developer-Python-GIF-Dribble.gif)
 
 <div align="center">
 	<span>  </span>

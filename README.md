@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![image](https://github.com/chenqiang19/chenqiang19/blob/main/images/Backend-Developer-Python-GIF-Dribble.gif)
+
+<!-- knock code pictures 敲代码的图片 -->
+<img src="https://github.com/chenqiang19/chenqiang19/blob/main/images/Backend-Developer-Python-GIF-Dribble.gif" /><br>
 
 <div align="center">
 	<span>  </span>

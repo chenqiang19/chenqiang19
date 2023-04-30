@@ -20,7 +20,3 @@ Here are some ideas to get you started:
 		<img height="170px" src="https://github-readme-stats.vercel.app/api?username=chenqiang19" /><span>  </span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chenqiang19&layout=compact&langs_count=8" />
 	<span>  </span>
 </div>
-
-<div align="center">
-    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=chengqiang19" />
-</div>

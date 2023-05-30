@@ -28,5 +28,3 @@ Here are some ideas to get you started:
 		<img height="170px" src="https://github-readme-stats.vercel.app/api?username=chenqiang19" /><span>  </span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chenqiang19&layout=compact&langs_count=8" />
 	<span>  </span>
 </div>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=chenqiang19&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
